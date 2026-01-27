@@ -1,2 +1,2 @@
-# bagyan_2026
+# Belinda Gyan's repo
 This is my repo for the Web mapping class
