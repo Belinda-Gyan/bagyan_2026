@@ -3,9 +3,8 @@ title: "About Me"
 permalink: /about/
 ---
 
-My name is **Your Name**.
+My name is **Belinda Ameyaa Gyan**.
 
 This site documents my work for **LA5880**, including GIS exercises, assignments, and a final project.
 
-I am a professor at Iowa State University, I majored in Landscape Architecture and much of my work 
-focuses on data crowdsourcing, geospatial technology and data visualization. I am originally from North Dakota. etc. etc.
+I am a Graduate student at Iowa State University, studying for a masters in Communiy and Regional Planning with a GIS certificstion. I am originally from Ghana, West Afica.
