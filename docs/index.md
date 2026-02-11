@@ -2,7 +2,7 @@
 layout: splash
 title: "Belinda Gyan's Webmapping Dashboard"
 header:
-  overlay_image: /assets/images/cover.jpg
+  overlay_image: /assets/images/New Banner.jpg
   overlay_filter: 0.3
 excerpt: "LA5880 – Web Mapping Portfolio"
 custom_head: head/custom.html
