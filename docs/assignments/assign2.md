@@ -1,8 +1,9 @@
 ---
 title: "Assignment 2"
-permalink: /assignments/assign2.md
+permalink: /assignments/assign2/
 markdown: false
 ---
+
 <div class="tableauPlaceholder" id="viz1772074903216" style="position: relative">
   <noscript>
     <a href="#">
