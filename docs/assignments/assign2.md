@@ -3,12 +3,6 @@ title: "Assignment 2(Parameters and Calculations)"
 permalink: /assignments/assign2.md
 markdown: false
 ---
----
-layout: single
-classes: wide
-title: "Your Dashboard Title"
----
-
 <div class="tableauPlaceholder" id="viz1772074903216" style="position: relative">
   <noscript>
     <a href="#">
