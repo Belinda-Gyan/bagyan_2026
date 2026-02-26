@@ -1,5 +1,5 @@
 ---
-title: "Assignment 2(Parameters and Calculations)"
+title: "Assignment 2"
 permalink: /assignments/assign2.md
 markdown: false
 ---
