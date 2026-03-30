@@ -1,12 +1,13 @@
 ---
-title: "Black Population in Iowa Map"
-permalink: /map/
-layout: default
+title: "Assignment 4"
+permalink: /assignments/assign4/
+markdown: false
 ---
-<p>This is my interactive map.</p>
 
-<iframe 
-  src="iowa_black_population_map.html"
-  width="100%" 
-  height="600px">
+Optionally, some text goes here above the map. Format using HTML.<br><br>
+
+<iframe src="Assignment 4.html" 
+        width="100%" 
+        height="800px" 
+        style="border:none;">
 </iframe>
