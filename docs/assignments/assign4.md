@@ -4,8 +4,6 @@ permalink: /assignments/assign4/
 markdown: false
 ---
 
-Optionally, some text goes here above the map. Format using HTML.<br><br>
-
 <iframe src="Assignment 4.html" 
         width="100%" 
         height="800px" 
