@@ -4,7 +4,7 @@ permalink: /assignments/assign4/
 markdown: false
 ---
 
-<iframe src="assign 4.html" 
+<iframe src="{{ '/assignments/assign4.html' | relative_url }}" 
         width="100%" 
         height="800px" 
         style="border:none;">
