@@ -32,14 +32,14 @@ sidebar:
         url: /exercises/2a/
       - title: "3a"
         url: /exercises/3a/
-      - title: "Assignment 1"
-        url: /assignments/assign1/
-      - title: "Assignment 2"
-        url: /assignments/assign2/
+     
 
  - title: "Assignments"
     children:
-      
+       - title: "Assignment 1"
+        url: /assignments/assign1/
+      - title: "Assignment 2"
+        url: /assignments/assign2/
         
     children:
       - title: "Proposal"
