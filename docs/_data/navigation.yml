@@ -33,7 +33,6 @@ sidebar:
       - title: "3a"
         url: /exercises/3a/
      
-
  - title: "Assignments"
     children:
        - title: "Assignment 1"
@@ -41,6 +40,7 @@ sidebar:
       - title: "Assignment 2"
         url: /assignments/assign2/
         
+  - title: "Final Project"
     children:
       - title: "Proposal"
         url: /final-project/proposal/
