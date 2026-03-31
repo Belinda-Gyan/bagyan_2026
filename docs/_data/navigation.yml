@@ -34,6 +34,8 @@ sidebar:
         url: /exercises/3a/
       - title: "Assignment 1"
         url: /assignments/assign1/
+      - title: "Assignment 2"
+        url: /assignments/assign2/
 
  - title: "Assignments"
     children:
@@ -45,8 +47,6 @@ sidebar:
         url: /assignments/assign3/
       - title: ""Assignment 4"
         url: /assignments/assign4/
-      - title: "Assignment 5"
-        url: 
 
         
     children:
