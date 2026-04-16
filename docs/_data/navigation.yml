@@ -46,11 +46,11 @@ sidebar:
 
   - title: "Final Project"
     children:
-      - title: "Proposal"
-        url: https://github.com/Belinda-Gyan/bagyan_2026/blob/main/docs/Belinda%20Gyan_Final%20project%20proposal%20.pdf
+      - title: "Final Project Proposal"
+        url: /final-project/proposal/
       - title: "Data Overview"
-        url: /final-project/data-overview/
+        url: 
       - title: "Final Project Process"
-        url: /final-project/process/
+        url: 
       - title: "Final Project Dashboards"
-        url: /final-project/dashboards/
+        url: 
