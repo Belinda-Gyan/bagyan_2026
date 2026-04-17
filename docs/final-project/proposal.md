@@ -7,7 +7,7 @@ markdown: false
 Final Project Proposal information can be located here.
 
 <iframe
-  src="bagyan_2026/Final-project/pdf/Belinda Gyan_Final project proposal.pdf/"
+  src="{{ '/final-project/Belinda Gyan_Final project proposal.pdf' | relative_url }}" 
   width="100%"
   height="900px"
   style="border: none;"
