@@ -1,7 +1,6 @@
 ---
 title: "Final Project Proposal"
 permalink: /final-project/proposal/
-markdown: false
 ---
 
 Final Project Proposal information can be located here.
