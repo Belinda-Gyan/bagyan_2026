@@ -16,8 +16,6 @@ This site contains my coursework, exercises, and final project for **LA5880**.
 Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a> me.
 
 <div class="button-container">
-  <a href="/bagyan_2026/tasks/" class="btn btn--primary">View Tasks</a>
-  <a href="/bagyan_2026/exercises/" class="btn btn--primary">View Exercises</a>
   <a href="/bagyan_2026/assignments/" class="btn btn--primary">View Assignments</a>
   <a href="/bagyan_2026/final-project/" class="btn btn--primary">View Final Project</a>
 </div>
